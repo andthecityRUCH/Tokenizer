@@ -26,11 +26,11 @@ const Footer = () => {
                     <span className="ml-3 text-xl text-emerald-700">Tokenizer</span>
                 </a>
                 <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© {new Date().getFullYear()} Tokenizer —
-                    <a href="https://x.com/manashanand2" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@ManashAnand</a>
+                    <a href="https://x.com/BustedCarp" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@andthecityRUCH</a>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-2">
                     <a
-                        href="https://github.com/ManashAnand"
+                        href="https://github.com/andthecityRUCH"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -40,7 +40,7 @@ const Footer = () => {
                     </a>
 
                     <a
-                        href="https://twitter.com/manashanand2"
+                        href="https://x.com/BustedCarp"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -50,7 +50,7 @@ const Footer = () => {
                     </a>
 
                     <a
-                        href="https://www.linkedin.com/in/manash-anand-479812227/"
+                        href="https://www.linkedin.com/in/ruchira-0253b4362/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -60,7 +60,7 @@ const Footer = () => {
                     </a>
 
                     <a
-                        href="https://manash-folio.netlify.app/"
+                        href="https://unstop.com/u/ruchiram66437"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
